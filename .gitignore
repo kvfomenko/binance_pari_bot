@@ -1,0 +1,16 @@
+.idea
+/app_conf_local.json
+/app_conf_prod.json
+/chart
+/db/impexp
+/db/simulate
+/doc
+/logs
+/test
+/node_modules
+/db/scripts/v1.0.4__func.sql
+/db/console_all.sql
+/db/dblink.sql
+/db/init.sql
+/db/subscribers_20231106.sql
+/db/trade_log.sql

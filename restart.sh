@@ -1,0 +1,1 @@
+﻿sudo systemctl restart bot_startscript_1
